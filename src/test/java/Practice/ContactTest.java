@@ -8,6 +8,8 @@ public class ContactTest {
 	public void Contact()
 	{
 		System.out.println("This is my first Commit - SELENIUM PROJECTS");
+		
+		System.out.println("This is my Second Commit");
 	}
 
 }
